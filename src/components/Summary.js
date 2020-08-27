@@ -1,7 +1,7 @@
 import React from "react";
 import { Button } from "react-bootstrap";
 
-export default function Cost(props) {
+export default function Summary(props) {
 	let courseCost = props.cost;
 	let total = courseCost.reduce((total, current) => total + current, 0);
 	let refreshPage = () => {

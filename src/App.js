@@ -1,17 +1,15 @@
-
 import React from 'react'
 import Dogs from './Dogs'
-//import 'bootstrap/dist/css/bootstrap.min.css';
-import Navigation from './Navigation';
-
+import Navigbar from './components/Navigbar';
+import Course from './components/Course';
 
 export default function App() {
   return (
     <div className="app">
       
-        <Navigation/>
+        <Navigbar/>
      
-        <Dogs/>
+        <Course/>
       
     </div>
   )
