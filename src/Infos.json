@@ -1,0 +1,108 @@
+[
+	{
+		"name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+		"details": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+		"creator": "Maximillan Schwarzmuller",
+		"picture": "images/image1.jpg",
+		"price": 4500
+	},
+	{
+		"name": "Modern React with Redux [2020 Update]",
+		"details": "Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+		"creator": "Stephen Grider",
+		"picture": "images/image2.jpg",
+		"price": 6500
+  }, 
+  
+  {
+		"name": "The Complete React Developer Course (w/ Hooks and Redux)",
+		"details": "Learn how to build and launch React web applications using React, Redux, Webpack, React-Router, and more!",
+		"creator": "Andrew Mead",
+		"picture": "images/image3.jpg",
+		"price":3000 
+  },  
+  {
+		"name": "GraphQL with React: The Complete Developers Guide",
+		"details": "Learn and master GraphQL by building real web apps with React and Node",
+		"creator": "Stephen Grider",
+		"picture": "images/image4.jpg",
+		"price":5000 
+  },  
+  {
+		"name": "ES6 Javascript: The Complete Developer's Guide",
+		"details": "ES6 Javascript Development from scratch. Get practice with live examples and learn exactly where to apply ES6 features.",
+		"creator": "Stephen Grider",
+		"picture": "images/image5.jpg",
+		"price": 5000
+  },  
+  {
+		"name": "Server Side Rendering with React and Redux",
+		"details": "Build React, Redux, and React Router apps using Server Side Rendering (SSR), Isomorphic, and Universal JS techniques",
+		"creator": "Stephen Grider",
+		"picture": "images/image6.jpg",
+		"price": 4000
+  },  
+  {
+		"name": "The Complete React Native + Hooks Course [2020 Edition]",
+		"details": "Understand React Native v0.62.2 with Hooks, Context, and React Navigation.",
+		"creator": "Stephen Grider",
+		"picture": "images/image7.jpg",
+		"price":7000 
+  },  
+  {
+		"name": "Advanced React and Redux",
+		"details": "Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment",
+		"creator": "Stephen Grider",
+		"picture": "images/image8.jpg",
+		"price": 5000
+  },  
+  {
+		"name": "Node with React: Fullstack Web Development",
+		"details": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+		"creator": "Stephen Grider",
+		"picture": "images/image9.jpg",
+		"price":5000 
+  },  
+  {
+		"name": "Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)",
+		"details": "Become a Senior React Developer! Build a massive E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase",
+		"creator": "Yihua Zhang,Andrei Neagoie",
+		"picture": "images/image10.jpg",
+		"price": 4000
+  },  
+  {
+		"name": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+		"details": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2019",
+		"creator": "Brad Traversy",
+		"picture": "images/image11.jpg",
+		"price":6000 
+  }, 
+  {
+		"name": "Beginner Full Stack Web Development: HTML, CSS, React & Node",
+		"details": "Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+		"creator": "Mark Wahlbeck",
+		"picture": "images/image12.jpg",
+		"price":5000 
+  },  
+  {
+		"name": "React JS Web Development - The Essentials Bootcamp",
+		"details": "Bootcamp on the React.js essentials. Gain a strong foundation of the core concepts, and build exciting and useful apps!",
+		"creator": "David Joseph Katz",
+		"picture": "images/image13.jpg",
+		"price": 7000
+  },  
+  {
+		"name": "React Native: Advanced Concepts",
+		"details": "Master the advanced topics of React Native: Animations, Maps, Notifications, Navigation and More!",
+		"creator": "Stephen Grider",
+		"picture": "images/image14.jpg",
+		"price":6000
+  },  
+  {
+		"name": "Hello React - React Training for JavaScript Beginners",
+		"details": "The Simplest Way to Learn React for Beginners - Line by Line with No Steps Skipped",
+		"creator": "Rob merill",
+		"picture": "images/image15.jpg",
+		"price":4000 
+  }
+]
